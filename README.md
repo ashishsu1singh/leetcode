@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishsu1singh/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/ashishsu1singh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ashishsu1singh/leetcode/tree/master/0735-asteroid-collision) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/ashishsu1singh/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ashishsu1singh/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ashishsu1singh/leetcode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/ashishsu1singh/leetcode/tree/master/0547-number-of-provinces) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ashishsu1singh/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/ashishsu1singh/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ashishsu1singh/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ashishsu1singh/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ashishsu1singh/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ashishsu1singh/leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ashishsu1singh/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ashishsu1singh/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ashishsu1singh/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ashishsu1singh/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
