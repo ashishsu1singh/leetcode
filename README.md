@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishsu1singh/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/ashishsu1singh/leetcode/tree/master/0496-next-greater-element-i) |
@@ -145,9 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
 | [1641-count-sorted-vowel-strings](https://github.com/ashishsu1singh/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 ## Combinatorics
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/ashishsu1singh/leetcode/tree/master/1641-count-sorted-vowel-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
