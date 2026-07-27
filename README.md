@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ashishsu1singh/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1641-count-sorted-vowel-strings](https://github.com/ashishsu1singh/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ashishsu1singh/leetcode/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/ashishsu1singh/leetcode/tree/master/1641-count-sorted-vowel-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/ashishsu1singh/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
