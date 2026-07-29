@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ashishsu1singh/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ashishsu1singh/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Merge Sort
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ashishsu1singh/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ashishsu1singh/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1641-count-sorted-vowel-strings](https://github.com/ashishsu1singh/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 ## Hash Table
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ashishsu1singh/leetcode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/ashishsu1singh/leetcode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ashishsu1singh/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/ashishsu1singh/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ashishsu1singh/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ashishsu1singh/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ashishsu1singh/leetcode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ashishsu1singh/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/ashishsu1singh/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ashishsu1singh/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ashishsu1singh/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ashishsu1singh/leetcode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ashishsu1singh/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/ashishsu1singh/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ashishsu1singh/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -156,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ashishsu1singh/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
