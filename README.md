@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ashishsu1singh/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ashishsu1singh/leetcode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishsu1singh/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ashishsu1singh/leetcode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
