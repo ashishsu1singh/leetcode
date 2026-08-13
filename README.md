@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ashishsu1singh/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ashishsu1singh/leetcode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/ashishsu1singh/leetcode/tree/master/0051-n-queens) |
+| [0088-merge-sorted-array](https://github.com/ashishsu1singh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishsu1singh/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ashishsu1singh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/ashishsu1singh/leetcode/tree/master/0561-array-partition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ashishsu1singh/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ashishsu1singh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
 ## Shortest Path
 |  |
