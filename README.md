@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ashishsu1singh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/ashishsu1singh/leetcode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishsu1singh/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/ashishsu1singh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/ashishsu1singh/leetcode/tree/master/0561-array-partition) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ashishsu1singh/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ashishsu1singh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ashishsu1singh/leetcode/tree/master/0283-move-zeroes) |
 ## Shortest Path
 |  |
 | ------- |
