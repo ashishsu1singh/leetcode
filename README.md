@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ashishsu1singh/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ashishsu1singh/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
 | [1641-count-sorted-vowel-strings](https://github.com/ashishsu1singh/leetcode/tree/master/1641-count-sorted-vowel-strings) |
@@ -210,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ashishsu1singh/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/ashishsu1singh/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
