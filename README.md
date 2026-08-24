@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ashishsu1singh/leetcode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/ashishsu1singh/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ashishsu1singh/leetcode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/ashishsu1singh/leetcode/tree/master/0796-rotate-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ashishsu1singh/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ashishsu1singh/leetcode/tree/master/0050-powx-n) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ashishsu1singh/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
