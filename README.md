@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ashishsu1singh/leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashishsu1singh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ashishsu1singh/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [3978-unique-middle-element](https://github.com/ashishsu1singh/leetcode/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ashishsu1singh/leetcode/tree/master/0561-array-partition) |
+| [3978-unique-middle-element](https://github.com/ashishsu1singh/leetcode/tree/master/3978-unique-middle-element) |
 ## Recursion
 |  |
 | ------- |
