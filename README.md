@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ashishsu1singh/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ashishsu1singh/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ashishsu1singh/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/ashishsu1singh/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ashishsu1singh/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ashishsu1singh/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/ashishsu1singh/leetcode/tree/master/0066-plus-one) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashishsu1singh/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ashishsu1singh/leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/ashishsu1singh/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ashishsu1singh/leetcode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/ashishsu1singh/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
