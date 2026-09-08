@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ashishsu1singh/leetcode/tree/master/0896-monotonic-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashishsu1singh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ashishsu1singh/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [3379-transformed-array](https://github.com/ashishsu1singh/leetcode/tree/master/3379-transformed-array) |
 | [3978-unique-middle-element](https://github.com/ashishsu1singh/leetcode/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ashishsu1singh/leetcode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/ashishsu1singh/leetcode/tree/master/0735-asteroid-collision) |
+| [3379-transformed-array](https://github.com/ashishsu1singh/leetcode/tree/master/3379-transformed-array) |
 ## Tree
 |  |
 | ------- |
