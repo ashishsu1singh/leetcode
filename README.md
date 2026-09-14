@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ashishsu1singh/leetcode/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/ashishsu1singh/leetcode/tree/master/0896-monotonic-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashishsu1singh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ashishsu1singh/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ashishsu1singh/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/ashishsu1singh/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3379-transformed-array](https://github.com/ashishsu1singh/leetcode/tree/master/3379-transformed-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashishsu1singh/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0496-next-greater-element-i](https://github.com/ashishsu1singh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ashishsu1singh/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ashishsu1singh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/ashishsu1singh/leetcode/tree/master/0561-array-partition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ashishsu1singh/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2706-buy-two-chocolates](https://github.com/ashishsu1singh/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Union-Find
 |  |
