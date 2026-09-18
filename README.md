@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishsu1singh/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/ashishsu1singh/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ashishsu1singh/leetcode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishsu1singh/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/ashishsu1singh/leetcode/tree/master/0496-next-greater-element-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashishsu1singh/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ashishsu1singh/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashishsu1singh/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/ashishsu1singh/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/ashishsu1singh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashishsu1singh/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashishsu1singh/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ashishsu1singh/leetcode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/ashishsu1singh/leetcode/tree/master/0561-array-partition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsu1singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ashishsu1singh/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
