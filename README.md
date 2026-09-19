@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ashishsu1singh/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ashishsu1singh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishsu1singh/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ashishsu1singh/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ashishsu1singh/leetcode/tree/master/0217-contains-duplicate) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashishsu1singh/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ashishsu1singh/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashishsu1singh/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/ashishsu1singh/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ashishsu1singh/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishsu1singh/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/ashishsu1singh/leetcode/tree/master/0496-next-greater-element-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ashishsu1singh/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ashishsu1singh/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ashishsu1singh/leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ashishsu1singh/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
