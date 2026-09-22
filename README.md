@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ashishsu1singh/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/ashishsu1singh/leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/ashishsu1singh/leetcode/tree/master/0735-asteroid-collision) |
 | [3379-transformed-array](https://github.com/ashishsu1singh/leetcode/tree/master/3379-transformed-array) |
 ## Tree
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ashishsu1singh/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashishsu1singh/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/ashishsu1singh/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/ashishsu1singh/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ashishsu1singh/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ashishsu1singh/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ashishsu1singh/leetcode/tree/master/0344-reverse-string) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ashishsu1singh/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ashishsu1singh/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ashishsu1singh/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ashishsu1singh/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
 | [1641-count-sorted-vowel-strings](https://github.com/ashishsu1singh/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 ## Combinatorics
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ashishsu1singh/leetcode/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/ashishsu1singh/leetcode/tree/master/0476-number-complement) |
 ## Trie
 |  |
