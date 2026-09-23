@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ashishsu1singh/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashishsu1singh/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/ashishsu1singh/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/ashishsu1singh/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ashishsu1singh/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishsu1singh/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishsu1singh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ashishsu1singh/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ashishsu1singh/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ashishsu1singh/leetcode/tree/master/0202-happy-number) |
 | [1641-count-sorted-vowel-strings](https://github.com/ashishsu1singh/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 ## Combinatorics
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ashishsu1singh/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/ashishsu1singh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ashishsu1singh/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ashishsu1singh/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ashishsu1singh/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashishsu1singh/leetcode/tree/master/0344-reverse-string) |
 ## Shortest Path
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashishsu1singh/leetcode/tree/master/0238-product-of-array-except-self) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ashishsu1singh/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
